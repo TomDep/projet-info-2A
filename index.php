@@ -182,7 +182,7 @@ if(isset($_GET["site-id"])) {
 
         <p>Site réalisé par Baptiste Boulanger et Tom de Pasquale pour un projet en 2e année à l'ENSIM
             <br>
-            Le code source est accessible <a href="https://github.com/">ici</a>
+            Le code source est accessible <a href="https://github.com/TomDep/projet-info-2A">ici</a>
         </p>
 
         
